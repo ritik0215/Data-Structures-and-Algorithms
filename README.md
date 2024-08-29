@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -61,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
