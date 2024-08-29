@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1894-merge-strings-alternately](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0016-3sum-closest) |
+| [1894-merge-strings-alternately](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
