@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
 | [0274-h-index](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
