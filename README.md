@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0274-h-index](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
