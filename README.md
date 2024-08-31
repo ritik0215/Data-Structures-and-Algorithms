@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0392-is-subsequence](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0274-h-index](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0274-h-index) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
