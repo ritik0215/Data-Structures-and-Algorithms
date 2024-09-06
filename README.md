@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [1833-find-the-highest-altitude](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1833-find-the-highest-altitude) |
 ## Math
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
