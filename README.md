@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
+| [0290-word-pattern](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0290-word-pattern) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Prefix Sum
