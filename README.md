@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Prefix Sum
