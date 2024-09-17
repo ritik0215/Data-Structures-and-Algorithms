@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
