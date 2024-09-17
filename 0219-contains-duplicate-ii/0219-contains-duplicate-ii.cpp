@@ -11,8 +11,8 @@ public:
             if(mp[nums[i]]>=2){
                 count=1;
                 int j=i+1;
-                while(j<nums.size()){
-                   if(nums[i]==nums[j]&&abs(i-j)<=k){
+                while(j<nums.size()&&j<=i+k){
+                   if(nums[i]==nums[j]){
                         count+=1;
                    }
                    j++;
