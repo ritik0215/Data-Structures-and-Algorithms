@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritik0215/Data-Structures-and-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String Matching
 |  |
 | ------- |
