@@ -24,11 +24,11 @@ public:
             for(int i=0;i<lsize;i++){
                 TreeNode* node=q.front();
                 q.pop();
-                if(node)
-                 level.push_back(node->val);
+                
+                level.push_back(node->val);
 
-                if(node && node->left)q.push(node->left);
-                if(node && node->right)q.push(node->right);
+                if(node->left)q.push(node->left);
+                if( node->right)q.push(node->right);
 
             }
             ans.insert(ans.begin(),level);
